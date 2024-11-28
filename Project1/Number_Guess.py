@@ -8,7 +8,7 @@ from random import randint
 start = 1
 end = 1000
 value = randint(start, end)
-
+#ab hogi aasli ladai
 print("The computer choose a number between", start, "and", end)
 
 guess = None
